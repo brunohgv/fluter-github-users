@@ -1,4 +1,4 @@
-# instagram_clone
+# Github user list
 
 A new Flutter project.
 
